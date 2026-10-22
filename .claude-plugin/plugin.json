@@ -1,0 +1,10 @@
+{
+  "name": "ecomstream-rpti",
+  "displayName": "Retail Payment Methods Transparency Index",
+  "version": "1.0.0",
+  "description": "Which providers offer a payment method to merchants in Europe, the price each publishes, and how the method works, from the Retail Payment Methods Transparency Index published by EcomStream.",
+  "author": { "name": "EcomStream", "url": "https://www.ecomstream.eu/" },
+  "homepage": "https://www.ecomstream.eu/payment-methods-transparency-index/connector/",
+  "license": "MIT",
+  "keywords": ["payments", "payment methods", "psp", "pricing", "retail", "europe"]
+}
