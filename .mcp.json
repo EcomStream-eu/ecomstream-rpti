@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rpti": {
+      "type": "http",
+      "url": "https://www.ecomstream.eu/wp-json/ecomstream-mcp/v1/mcp"
+    }
+  }
+}
